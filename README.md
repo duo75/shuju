@@ -16,4 +16,3 @@ erDiagram
     
     CLASS ||--o{ STUDENT : "1:n"
     STUDENT }o--|| CLASS : "belongs to"
-# shuju
